@@ -8,3 +8,6 @@
     border-radius: 80%;
     
   }
+  .bg-image {
+   background-size: cover !important;
+}
