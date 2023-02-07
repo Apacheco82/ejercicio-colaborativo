@@ -1,0 +1,13 @@
+.navbar-brand{
+    margin-left: 10px; 
+ }
+
+ .card-img {
+    width: 75%;
+    height:75%;
+    border-radius: 80%;
+    
+  }
+  .bg-image {
+   background-size: cover !important;
+}
